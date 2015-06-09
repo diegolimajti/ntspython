@@ -1,0 +1,3 @@
+*.pyc
+chapter09.py
+.ipynb_checkpoints/*

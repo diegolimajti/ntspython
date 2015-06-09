@@ -1,0 +1,7 @@
+This repo contains personal notes and Python code that follows Mike Cohen's book Analysing Neural Time Data [1]. People that may be interested in this content include those that, like me, adventured in following the book using a free alternative to the Matlab environment.
+
+The file sampleEEGdata.mat contains EEG data made avaliable the author freely at http://www.mikexcohen.com/. The Matlab code in which the implementations here are based can also be obtained at this adress.
+
+References
+
+[1] Cohen, M. X. (2014) Analysing Neural Time Series Data: Theory and Practice. MIT Press.

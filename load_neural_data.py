@@ -34,6 +34,7 @@ def load_data():
     data = eeg['data']
     time = eeg['times'][0]
     channels = [d[0] for d in eeg['chanlocs']['labels'][0]]
-   
-    return data, time, channels
+    srate = eeg['srate'][0,0]
+    
+    return data, time, channels, srate
     
